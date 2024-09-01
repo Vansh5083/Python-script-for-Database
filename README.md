@@ -4,12 +4,9 @@
 
 1. [Description](#description)
 2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Setup](#setup)
-5. [Usage](#usage)
-6. [Example](#example)
-7. [License](#license)
-8. [Author](#author)
+3. [Setup](#setup)
+4. [Usage](#usage)
+5. [Example](#example)
 
 ## Description
 
